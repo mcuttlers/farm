@@ -16,7 +16,6 @@
 </table>
 </h3>
 <p align:"center">
-<img src="chesnok-red-garlic.jpg" alt="Chesnok Red Garlic" style="width:304px;height:228px;"/>
 </p>
 <p>
 If you want to view our available products, click <b>Products</b>. If you know what you want to order, then click <b>Store</b>.
